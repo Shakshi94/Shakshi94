@@ -27,7 +27,7 @@
 
 <h3>💡 Highlights</h3>
 <ul>
-  <li>Won the <strong>Parul University Hackathon</strong> with the "Bookology" app.</li>
+  <li><strong>Parul University Hackathon</strong>,2021 Participated with a teammate and presented the Bookology app, won first position. </li>
   <li>300+ coding problems solved on Coding Ninja.</li>
   <li>Active on <a href="https://linkedin.com/in/shakshi-vishwakarma-21050421b">LinkedIn</a> with 5K+ connections.</li>
 </ul>
