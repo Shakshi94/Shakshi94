@@ -3,7 +3,7 @@
 <p>I'm a passionate Full Stack Developer with expertise in the MERN stack and a strong background in computer science. I love solving complex problems, building projects, and exploring new technologies. Here’s a glimpse of what I do:</p>
 
 <ul>
-  <li>🔭 Currently working on <a href="#">Nestify</a> and <a href="#">BusyBuy</a>, my e-commerce platform.</li>
+  <li>🔭 Currently working on <a href="#">Nestify</a> and <a href="#">BusyBuy</a>,my tour and travel website and e-commerce platform.</li>
   <li>🌱 Exploring cloud platforms and expanding my skills in AWS and Azure.</li>
   <li>👯 Open to collaborating on web development projects.</li>
   <li>💬 Ask me about anything related to JavaScript, React, Node.js, or web development in general.</li>
