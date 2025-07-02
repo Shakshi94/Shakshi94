@@ -5,7 +5,6 @@
 <ul>
   <li>🔭 Developed a <a href="https://nestify-vu0d.onrender.com/listing">Nestify</a> and <a href="https://busybuy-536e.onrender.com/">BusyBuy</a>, my tour & travel website and e-commerce platform.</li>
   <li>💼 Gaining professional experience as a Software Developer Intern at <a href="http://clinic.coteriesoft.com/">Coterie Software Solutions Pvt. Ltd.</a></li>
-  <li>🌱 Expanding my skills in AWS, Azure, and exploring cloud platforms.</li>
   <li>👯 Open to collaborating on full-stack and healthcare-related projects.</li>
   <li>💬 Ask me about JavaScript, React, Node.js, C#, or web development!</li>
   <li>📫 Reach out via <a href="https://linkedin.com/in/shakshi-vishwakarma-21050421b">LinkedIn</a> or explore my <a href="https://portfolio-shakshi-vishwakarma.netlify.app/">Portfolio</a>.</li>
