@@ -1,35 +1,44 @@
 <h2>Hi there! 👋 I'm Shakshi Vishwakarma</h2>
 
-<p>I'm a passionate Full Stack Developer with expertise in the MERN stack and a strong background in computer science. I love solving complex problems, building projects, and exploring new technologies. Here’s a glimpse of what I do:</p>
+<p>I'm a passionate Full Stack Developer skilled in MERN stack and .NET technologies, with a solid background in computer science. I enjoy solving real-world problems, building scalable web apps, and constantly exploring new tools and frameworks.</p>
 
 <ul>
-  <li>🔭 Currently working on <a href="#">Nestify</a> and <a href="#">BusyBuy</a>,my tour and travel website and e-commerce platform.</li>
-  <li>🌱 Exploring cloud platforms and expanding my skills in AWS and Azure.</li>
-  <li>👯 Open to collaborating on web development projects.</li>
-  <li>💬 Ask me about anything related to JavaScript, React, Node.js, or web development in general.</li>
-  <li>📫 Reach out to me on <a href="https://linkedin.com/in/shakshi-vishwakarma-21050421b">LinkedIn</a> or visit my <a href="https://portfolio-shakshi-vishwakarma.netlify.app/">Portfolio</a>.</li>
+  <li>🔭 Developed a <a href="https://nestify-vu0d.onrender.com/listing">Nestify</a> and <a href="https://busybuy-536e.onrender.com/">BusyBuy</a>, my tour & travel website and e-commerce platform.</li>
+  <li>💼 Gaining professional experience as a Software Developer Intern at <a href="http://clinic.coteriesoft.com/">Coterie Software Solutions Pvt. Ltd.</a></li>
+  <li>🌱 Expanding my skills in AWS, Azure, and exploring cloud platforms.</li>
+  <li>👯 Open to collaborating on full-stack and healthcare-related projects.</li>
+  <li>💬 Ask me about JavaScript, React, Node.js, C#, or anything web development!</li>
+  <li>📫 Reach out via <a href="https://linkedin.com/in/shakshi-vishwakarma-21050421b">LinkedIn</a> or explore my <a href="https://portfolio-shakshi-vishwakarma.netlify.app/">Portfolio</a>.</li>
 </ul>
 
 <h3>🛠 My Skillset</h3>
 <ul>
-  <li><strong>Languages</strong>: C++, JavaScript, SQL</li>
+  <li><strong>Languages</strong>: C++, JavaScript, SQL, C#</li>
   <li><strong>Frontend</strong>: ReactJS, HTML, CSS</li>
-  <li><strong>Backend</strong>: Node.js, Express.js, MongoDB</li>
-  <li><strong>Tools</strong>: Git, Redux, Tailwind, Passport.js</li>
-  <li><strong>Soft Skills</strong>: Communication, Problem-solving, Team collaboration</li>
+  <li><strong>Backend</strong>: Node.js, Express.js, MongoDB, ASP.NET Web Forms</li>
+  <li><strong>Developer Tools</strong>: Git, Redux, Tailwind, Postman, Visual Studio, VS Code</li>
+  <li><strong>Soft Skills</strong>: Problem-solving, Communication, Team collaboration, Time management, Critical thinking</li>
 </ul>
 
 <h3>📚 Education & Internships</h3>
 <ul>
-  <li><strong>B.Tech in Computer Science</strong>, Parul University (CGPA: 8.05)</li>
-  <li><strong>Internships</strong>: Prodigy Infotech, Bytel XL</li>
+  <li><strong>B.Tech in Computer Science and Engineering</strong>, Parul University (CGPA: 8.21/10)</li>
+  <li><strong>Software Developer Intern</strong>, Coterie Software Solutions Pvt. Ltd. (Jan 2025 – June 2025)</li>
+  <li><strong>Full Stack Developer Intern</strong>, Prodigy Infotech (July 2024 – August 2024)</li>
 </ul>
 
-<h3>💡 Highlights</h3>
+<h3>💡 Projects</h3>
 <ul>
-  <li><strong>Parul University Hackathon</strong>,2021 Participated with a teammate and presented the Bookology app, won first position. </li>
-  <li>300+ coding problems solved on Coding Ninja.</li>
-  <li>Active on <a href="https://linkedin.com/in/shakshi-vishwakarma-21050421b">LinkedIn</a> with 5K+ connections.</li>
+  <li><strong>Doccure Healthcare App</strong>: Built modules like patient registration and appointment booking using ASP.NET, C#, and SQL Server.</li>
+  <li><strong>Nestify</strong>: A tourist platform like Airbnb using Mapbox, Node.js, Express.js, MongoDB – <a href="https://github.com/Shakshi94/Nestify">GitHub</a></li>
+  <li><strong>BusyBuy</strong>: A full-stack e-commerce site with JWT authentication – <a href="https://github.com/Shakshi94/PRODIGY_FS_03">GitHub</a></li>
 </ul>
 
-<p>Feel free to explore my projects and repositories. Let's connect and create something amazing together!</p>
+<h3>🏆 Achievements</h3>
+<ul>
+  <li>🏅 <strong>Parul University Hackathon 2021</strong>: Won 1st position for developing the Bookology app.</li>
+  <li>✅ Completed MERN Full Stack Development Course (Apna College)</li>
+  <li>🧠 Solved 300+ coding problems on Coding Ninja</li>
+</ul>
+
+<p>Feel free to explore my <a href="https://github.com/Shakshi94/">GitHub</a> and reach out for exciting collaboration opportunities. Let’s build something impactful together!</p>
